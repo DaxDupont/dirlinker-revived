@@ -19,6 +19,6 @@ Move or delete a file/folder before creating a link, making it easier to create 
 Undo support, if anything goes wrong we can put it back.
 
 # Requirements:
-XP or later (It has been tested on Vista x86 and Win7 x64)
+XP or later
 .NET 3.5
 Admin rights
