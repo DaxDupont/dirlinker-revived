@@ -12,8 +12,6 @@ Start cmd.exe and then enter the mklink command along with the full paths of the
 
 DirLinker helps with this, it is very basic UI that allows you to enter where you want the link and where you want to link to. You can just delete the link place or copy the contents over first. Use these options at your own risk, I will not be held responsible for any data loss.
 
-As of version 2.1, DirLinker also supports the creation of symbolic file links and creating folder links on Windows XP 
-
 # Features
 Create symbolic folder links
 Create symbolic file links (Only on Vista or later)
