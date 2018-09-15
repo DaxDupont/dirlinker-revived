@@ -20,5 +20,5 @@ Undo support, if anything goes wrong we can put it back.
 
 # Requirements:
 XP or later
-.NET 3.5
-Admin rights
+NET 3.5
+Administrative rights
