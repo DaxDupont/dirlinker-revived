@@ -1,7 +1,7 @@
 # dirlinker-revived
 Directory Linker is a small Winforms application that allows the user to quickly and easily create symbolic links in XP, Vista and Windows 7 for files and folders.
 
-#Project Description
+# Project Description
 Directory Linker is a small Winforms application that allows the user to quickly and easily create symbolic links in XP, Vista and Windows 7 for files and folders. 
 
 The process for creating a symbolic directory link for a folder that already exists is a bit clunky, you have to:
@@ -14,13 +14,13 @@ DirLinker helps with this, it is very basic UI that allows you to enter where yo
 
 As of version 2.1, DirLinker also supports the creation of symbolic file links and creating folder links on Windows XP 
 
-#Features
+# Features
 Create symbolic folder links
 Create symbolic file links (Only on Vista or later)
 Move or delete a file/folder before creating a link, making it easier to create a link for a file/folder that already exists
 Undo support, if anything goes wrong we can put it back.
 
-#Requirements:
+# Requirements:
 XP or later (It has been tested on Vista x86 and Win7 x64)
 .NET 3.5
 Admin rights
