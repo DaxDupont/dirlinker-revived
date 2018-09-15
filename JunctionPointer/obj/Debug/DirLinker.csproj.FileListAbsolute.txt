@@ -1,0 +1,11 @@
+D:\tg\dirlinker-revived\JunctionPointer\bin\Debug\DirLinker.exe.config
+D:\tg\dirlinker-revived\JunctionPointer\bin\Debug\DirLinker.exe
+D:\tg\dirlinker-revived\JunctionPointer\bin\Debug\DirLinker.pdb
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.csprojAssemblyReference.cache
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.Properties.Resources.resources
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.Views.DirLinkerView.resources
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.Views.ProgressView.resources
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.csproj.GenerateResource.cache
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.csproj.CoreCompileInputs.cache
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.exe
+D:\tg\dirlinker-revived\JunctionPointer\obj\Debug\DirLinker.pdb

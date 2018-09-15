@@ -1,0 +1,14 @@
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\DirLinker.Tests.dll
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\DirLinker.Tests.pdb
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\DirLinker.exe
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\nunit.framework.dll
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\Rhino.Mocks.dll
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\DirLinker.pdb
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\DirLinker.exe.config
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\nunit.framework.xml
+D:\tg\dirlinker-revived\DirLinker.Tests\bin\Debug\Rhino.Mocks.xml
+D:\tg\dirlinker-revived\DirLinker.Tests\obj\Debug\DirLinker.Tests.csprojAssemblyReference.cache
+D:\tg\dirlinker-revived\DirLinker.Tests\obj\Debug\DirLinker.Tests.csproj.CoreCompileInputs.cache
+D:\tg\dirlinker-revived\DirLinker.Tests\obj\Debug\DirLinker.Tests.csproj.CopyComplete
+D:\tg\dirlinker-revived\DirLinker.Tests\obj\Debug\DirLinker.Tests.dll
+D:\tg\dirlinker-revived\DirLinker.Tests\obj\Debug\DirLinker.Tests.pdb
